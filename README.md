@@ -1,2 +1,2 @@
 # Exercism
-Programming exercises for learning and practice with different programming languages
+Programming exercises for learning and practice 
